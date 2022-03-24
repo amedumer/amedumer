@@ -2,7 +2,7 @@
 <h3 align="center">I code things. They work, sometimes.</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amedumer&show_icons=true&locale=en&count_private=true" alt="amedumer" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amedumer&show_icons=true&locale=en&count_private=true" alt="amedumer" /></p>
 
 
 - 🔭 I’m currently working on **Full Stack E-Commerce App**
