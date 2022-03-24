@@ -2,7 +2,7 @@
 <h3 align="center">I code things. They work, sometimes.</h3>
 
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amedumer&show_icons=true&locale=en&count_private=true" alt="amedumer" /></p>
+
 
 
 - 🔭 I’m currently working on **Full Stack E-Commerce App**
@@ -18,6 +18,8 @@
 - 📫 How to reach me **ahmetomer@sabanciuniv.edu**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Lo9uEOInLKyj4tj1wUgNxwyGoEfq5Xt1/view?usp=sharing)
+
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amedumer&show_icons=true&locale=en&count_private=true&theme=dark" alt="amedumer" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
