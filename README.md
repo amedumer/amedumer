@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Full Stack E-Commerce App**
 
-- 🌱 I’m currently learning **Web3.js**
+- 🌱 I’m currently learning **Blockchain, Solidity, Web3.js**
 
 - 👨‍💻 All of my projects are available at [here](https://omersblog.vercel.app/projects)
 
 - 📝 I regularly write articles on [here](https://omersblog.vercel.app)
 
-- 💬 Ask me about **Anything but not Java**
+- 💬 Ask me about **Flutter, Node.js, Solidity**
 
 - 📫 How to reach me **ahmetomer@sabanciuniv.edu**
 
