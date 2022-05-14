@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack E-Commerce App**
 
-- 🌱 I’m currently learning **Blockchain, Solidity, Web3.js**
+- 🌱 I’m currently learning **Cosmos SDK, Ignite CLI, Solidity, Web3.js**
 
 - 👨‍💻 All of my projects are available at [here](https://omersblog.vercel.app/projects)
 
