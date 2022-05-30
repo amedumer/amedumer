@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Full Stack E-Commerce App**
+- 🔭 I’m currently working on **Soulbound Tokens**
 
 - 🌱 I’m currently learning **Cosmos SDK, Ignite CLI, Solidity, Web3.js**
 
