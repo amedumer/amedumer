@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Soulbound Tokens**
+- 🔭 I’m currently working on **Stablecoins & IOS application development**
 
-- 🌱 I’m currently learning **Cosmos SDK, Ignite CLI, Solidity, Web3.js**
+- 🌱 I’m currently learning **Pronvenance Blockchain, Digital Currency Consortium, Swift**
 
 - 👨‍💻 All of my projects are available at [here](https://omersblog.vercel.app/projects)
 
