@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Stablecoins & IOS application development**
+- 🔭 I’m currently working on **Stablecoins & Mobile Application Development**
 
-- 🌱 I’m currently learning **Pronvenance Blockchain, Digital Currency Consortium, Swift**
+- 🌱 I’m currently learning **Cosmos Blockchain, Smart Contract Pentesting, BloC**
 
 - 👨‍💻 All of my projects are available at [here](https://omersblog.vercel.app/projects)
 
@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Lo9uEOInLKyj4tj1wUgNxwyGoEfq5Xt1/view?usp=sharing)
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amedumer&show_icons=true&locale=en&count_private=true&theme=dark" alt="amedumer" /></p>
+
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amedumer&theme=dark" alt="amedumer" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
