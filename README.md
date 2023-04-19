@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">I code things. They work, sometimes.</h3>
+<h3 align="center">I am Full Stack Dev. I code things. They work, sometimes.</h3>
 
 
 
