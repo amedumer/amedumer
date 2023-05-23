@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">I am Full Stack Dev. I code things. They work, sometimes.</h3>
+<h3 align="center">I am Full Stack Dev.</h3>
+<h5 align="center">I code things. They work, sometimes.</h5>
 
 
 
 
 
-- 🔭 I’m currently working on **Regulated Liability Networks, CBDCs**
+- 🔭 I’m currently working on **Central Bank Integrated Blockchain Payment Rails**
 
-- 🌱 I’m currently learning **AWS Cloud Engineering**
+- 🌱 I’m currently learning **AWS Cloud Engineering & Svelte**
+
+- ⚡ I mainly use **Node & Typescript** for backend; **Next.js & Tailwind CSS** for frontend; **Flutter** for mobile; **Firebase** for cloud functions, and **Cosmos** for blockchain.
 
 - 👨‍💻 All of my projects are available at [here](https://omersblog.vercel.app/projects)
 
