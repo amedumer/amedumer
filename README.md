@@ -6,21 +6,21 @@
 
 
 
-- 🔭 I’m currently working on **Central Bank Integrated Blockchain Payment Rails**
+- 🔭 I’m currently working on **Decentralised Lending Platforms**
 
-- 🌱 I’m currently learning **AWS Cloud Engineering & Svelte**
+- 🌱 I’m currently learning **AWS & Svelte**
 
-- ⚡ I mainly use **Node & Typescript** for backend; **Next.js & Tailwind CSS** for frontend; **Flutter** for mobile; **Firebase** for cloud functions, and **Cosmos** for blockchain.
+- ⚡ I mainly use **Node.js & Typescript** for backend; **Next.js & Tailwind CSS** for frontend; **Flutter** for mobile; **Firebase** for cloud functions, and **Cosmos & EVM** for blockchain.
 
 - 👨‍💻 All of my projects are available at [here](https://omersblog.vercel.app/projects)
 
-- 📝 I regularly write articles on [here](https://omersblog.vercel.app)
+- 📝 I sometimes write articles [here](https://omersblog.vercel.app)
 
 - 💬 Ask me about **Flutter, Cosmos**
 
-- 📫 How to reach me **ahmetomer@sabanciuniv.edu**
+- 📫 How to reach me **omer.kayabasi23@imperial.ac.uk**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1gaH_Q5T9auN-eGx9pZWMecbMIK_7UUR4/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nWrQ0Ix1KleP0T6zOW0oswyHkwmSej6j/view?usp=share_link)
 
 
 <picture>
